@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ShoppingCart.Data.Data;
-using ShoppingCart.Data.Domains.Helpers;
 using ShoppingCart.Data.Models.Category;
 using ShoppingCart.Data.Models.Product;
 

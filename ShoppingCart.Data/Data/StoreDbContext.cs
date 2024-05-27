@@ -1,7 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging;
 using ShoppingCart.Data.Models.Cart;
-using ShoppingCart.Data.Models.Category;
 using ShoppingCart.Data.Models.Product;
 using ShoppingCart.Data.Models.User;
 

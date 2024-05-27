@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using ShoppingCart.Data.Models.Category;
 using ShoppingCart.Data.Services.Category;
 

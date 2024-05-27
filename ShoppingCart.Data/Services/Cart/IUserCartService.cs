@@ -1,6 +1,5 @@
 ﻿using ShoppingCart.Data.Models.Cart;
 using ShoppingCart.Data.Models.Product;
-using ShoppingCart.Data.Models.User;
 
 namespace ShoppingCart.Data.Services.Cart;
 

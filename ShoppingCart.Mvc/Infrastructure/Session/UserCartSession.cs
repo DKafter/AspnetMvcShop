@@ -4,7 +4,6 @@ using ShoppingCart.Data.Models.Cart;
 using ShoppingCart.Data.Models.Product;
 using ShoppingCart.Data.Services.Cart;
 using ShoppingCart.Mvc.Infrastructure.Middleware;
-using JsonSerializer = System.Text.Json.JsonSerializer;
 
 namespace ShoppingCart.Mvc.Infrastructure.Session;
 

@@ -1,6 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using ShoppingCart.Data.Models.Cart;
 
 namespace ShoppingCart.Data.Models.User;
 
