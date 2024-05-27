@@ -1,0 +1,107 @@
+﻿@model CartProductViewModel
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card">
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">#</th>
+                                    <th scope="col">Product</th>
+                                    <th scope="col">Price</th>
+                                    <th scope="col">Quantity</th>
+                                    <th scope="col">Total</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @{
+                                    var cartModels = Model.CartModel;
+                                    var totalPrice = Model.TotalPrice;
+                                    var i1 = 1;
+                                }
+                                @if (cartModels != null && cartModels.Any())
+                                {
+                                    foreach(var item in cartModels)
+                                    {
+                                        <tr>
+                                            <td>@i1</td>
+                                            <td>@item.ProductModel.Name</td>
+                                            <td>@item.ProductModel.Price</td>
+                                            <td>
+                                                <input type="number" class="Quantity" name="Quantity"
+                                                       id="Quantity"
+                                                       value="@item.Quantity" min="1" step="1"
+                                                       data-product-id="@item.ProductID"/>
+                                            </td>
+                                            <td>
+                                                <input type="button" class="Remove" name="Remove"
+                                                       id="Remove"
+                                                       value="Удалить"
+                                                       data-product-id="@item.ProductID"/>
+                                            </td>
+                                        </tr>
+                                        i1++;
+                                    }
+                                    <tr>
+                                        <td colspan="4" class="text-right">Total:</td>
+                                        <td>@totalPrice</td>
+                                    </tr>
+                                }
+                                else
+                                {
+                                    <tr>
+                                        <td colspan="5">Корзина пуста</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function () {
+    $('body')
+    .on('change','#Quantity', function() {
+            let quantity = parseInt($(this).val(), 10);
+            let url = decodeURIComponent(encodeURIComponent('@Url.ActionLink("Update", "Cart")/'.concat($(this).data('product-id'))));
+            $.ajax({
+                type: 'PUT',
+                url: url,
+                contentType: 'application/json; charset=UTF-8', 
+                data: JSON.stringify({ 
+                    'Quantity': quantity
+                }),
+                success: function(response) {
+                    console.log("Success: ", response);
+                                location.reload();
+                },
+                error: function(error) {
+                    console.log("Error: ", error);
+                }
+            })
+   })
+   .on('click', '#Remove', function () {
+       let url = decodeURIComponent(encodeURIComponent('@Url.ActionLink("Remove", "Cart")/'.concat($(this).data('product-id'))));
+       $.ajax({
+       type: '@HttpMethods.Delete',
+       url: url,
+           success: function(response) {
+            console.log("Success: ", response);
+                                            location.reload();
+                },
+                error: function(error) {
+                    console.log("Error: ", error);
+            }
+       })
+   })
+ })
+</script>

@@ -1,0 +1,35 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    padding: 70px 0 0; 
+    width: 250px; /* Ширина сайдбара */
+    overflow-x: hidden; /* Скрываем горизонтальную прокрутку */
+    overflow-y: auto; /* Добавляем вертикальную прокрутку */
+    background-color: #f5f5f5; /* Цвет фона сайдбара */
+    z-index: 1000; /* Убедитесь, что навигация появляется поверх контента страницы */
+}

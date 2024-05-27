@@ -1,0 +1,42 @@
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\2\ShoppingCart\ShoppingCart.Data\bin\Debug\net8.0\ShoppingCart.Data.deps.json
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\2\ShoppingCart\ShoppingCart.Data\bin\Debug\net8.0\ShoppingCart.Data.dll
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\2\ShoppingCart\ShoppingCart.Data\bin\Debug\net8.0\ShoppingCart.Data.pdb
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\2\ShoppingCart\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\2\ShoppingCart\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.AssemblyInfoInputs.cache
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\2\ShoppingCart\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.AssemblyInfo.cs
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\2\ShoppingCart\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.csproj.CoreCompileInputs.cache
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\2\ShoppingCart\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.dll
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\2\ShoppingCart\ShoppingCart.Data\obj\Debug\net8.0\refint\ShoppingCart.Data.dll
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\2\ShoppingCart\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.pdb
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\2\ShoppingCart\ShoppingCart.Data\obj\Debug\net8.0\ref\ShoppingCart.Data.dll
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\2\ShoppingCart\ShoppingCart.Data\bin\Debug\net8.0\ShoppingCart.Data.runtimeconfig.json
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\2\ShoppingCart\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.csproj.AssemblyReference.cache
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\2\ShoppingCart\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.genruntimeconfig.cache
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop-change\ShoppingCart.Data\bin\Debug\net8.0\ShoppingCart.Data.deps.json
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop-change\ShoppingCart.Data\bin\Debug\net8.0\ShoppingCart.Data.runtimeconfig.json
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop-change\ShoppingCart.Data\bin\Debug\net8.0\ShoppingCart.Data.dll
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop-change\ShoppingCart.Data\bin\Debug\net8.0\ShoppingCart.Data.pdb
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop-change\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.csproj.AssemblyReference.cache
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop-change\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop-change\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.AssemblyInfoInputs.cache
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop-change\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.AssemblyInfo.cs
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop-change\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.csproj.CoreCompileInputs.cache
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop-change\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.dll
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop-change\ShoppingCart.Data\obj\Debug\net8.0\refint\ShoppingCart.Data.dll
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop-change\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.pdb
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop-change\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.genruntimeconfig.cache
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop-change\ShoppingCart.Data\obj\Debug\net8.0\ref\ShoppingCart.Data.dll
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop — копия\ShoppingCart.Data\bin\Debug\net8.0\ShoppingCart.Data.deps.json
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop — копия\ShoppingCart.Data\bin\Debug\net8.0\ShoppingCart.Data.runtimeconfig.json
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop — копия\ShoppingCart.Data\bin\Debug\net8.0\ShoppingCart.Data.dll
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop — копия\ShoppingCart.Data\bin\Debug\net8.0\ShoppingCart.Data.pdb
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop — копия\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.csproj.AssemblyReference.cache
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop — копия\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop — копия\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.AssemblyInfoInputs.cache
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop — копия\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.AssemblyInfo.cs
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop — копия\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.csproj.CoreCompileInputs.cache
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop — копия\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.dll
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop — копия\ShoppingCart.Data\obj\Debug\net8.0\refint\ShoppingCart.Data.dll
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop — копия\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.pdb
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop — копия\ShoppingCart.Data\obj\Debug\net8.0\ShoppingCart.Data.genruntimeconfig.cache
+C:\Users\ГЕРМАН\Desktop\Новая папка (5)\AspnetMvcShop — копия\ShoppingCart.Data\obj\Debug\net8.0\ref\ShoppingCart.Data.dll
